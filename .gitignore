@@ -1,0 +1,6 @@
+composer.lock
+.project
+.buildpath
+
+tests/src/Cache/cache
+
