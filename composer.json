@@ -1,5 +1,5 @@
 {
-  "name": "phalapi/kernal",
+  "name": "mymusic56-phalapi/kernal",
   "description": "PhalApi 2.x 框架核心部分。",
   "keywords": [
     "api", "phalapi", "framework"
@@ -8,14 +8,13 @@
   "homepage": "https://www.phalapi.net/",
   "authors": [
     {
-      "name": "Dogstar Huang",
-      "email": "chanzonghuang@gmail.com",
-      "homepage": "http://my.oschina.net/dogstar",
+      "name": "zhangshengji",
+      "email": "zhangshengji56@gmail.com",
       "role": "Developer"
     },
     {
       "name": "kwan",
-      "email": "303198069@qq.com",
+      "email": "961272668@qq.com",
       "role": "Developer"
     }
   ],
